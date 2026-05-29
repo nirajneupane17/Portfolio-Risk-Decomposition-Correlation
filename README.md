@@ -2,7 +2,7 @@
 
 # Portfolio Risk Decomposition & Correlation Modeling
 
-### 🏆 Series Finale — Project 10 of 10
+### Series Finale — Project 10 of 10
 
 *End-to-end portfolio risk decomposition, correlation analysis across market regimes,*
 *marginal risk contribution, portfolio optimisation, and factor risk attribution.*
