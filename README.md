@@ -236,9 +236,8 @@ Portfolio-Risk-Decomposition-Correlation/
 <div align="center">
 
 **Niraj Neupane**
-Quantitative Risk Analyst · BlackRock
-MS Financial Economics · University of Wisconsin–Madison
-Chartered Accountant (ICAI) · FRM Candidate
+Quantitative Risk Analyst 
+Chartered Accountant 
 
 [github.com/nirajneupane17](https://github.com/nirajneupane17)
 
