@@ -20,7 +20,7 @@
 
 ![Summary Dashboard](results/dashboard_final_pro.png)
 
-> **Animated Dashboard:** [Bloomberg-style GIF](results/portfolio_risk_bloomberg.gif) · [10-Second Video Walkthrough](results/portfolio_risk_video.mp4)
+> **Animated Dashboard:** [Bloomberg-style GIF](results/portfolio_risk_bloomberg.gif) 
 
 ---
 
